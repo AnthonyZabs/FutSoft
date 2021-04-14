@@ -1,0 +1,93 @@
+#gticontainer{
+	width: 100%;
+	clear:both;
+	display:block;
+	border-bottom: 1px solid #107fb3;
+	margin-bottom:25px;	
+	color: #107fb3;
+	}
+	
+#gticontainer ul li{
+	margin:0px;	
+}
+
+#gti_letterindex {
+	width: 100%;
+	clear:both;
+	display:block;
+	min-height:1px;
+	border-bottom: 1px solid #107fb3;
+	margin-bottom:25px;	
+  font-family: Tahoma,Arial;
+  font-size: 14pt;
+
+}
+
+#gti_letterindexbottom {
+	width: 100%;
+	clear:both;
+	display:block;
+	min-height:1px;
+	border-top: 1px solid #107fb3;
+	font-family: Tahoma,Arial;
+  font-size: 14pt;
+}
+
+
+.gti_clear {
+	clear:both;
+	height:3px;
+	}	
+	
+.gti_clear20 {
+	clear:both;
+	height:20px;
+}	
+
+#gti_letterindex ul, #gti_letterindexbottom ul {
+	list-style-type:none;
+	margin:0px;
+	padding:0px;
+	}	
+	
+#gti_letterindex ul li, #gti_letterindexbottom ul li {
+	float:left;
+	display:block;
+	padding:4px;
+	
+	}		
+
+#gti_letterindex ul li a, #gti_letterindexbottom ul li a {
+text-decoration:underline;
+text-transform:uppercase;
+color: #67ad03;
+}	
+
+.tagindex .blockletter {
+  background: url("./img/bg_green.jpg") repeat-x scroll left top transparent;
+  color: #FFFFFF;
+  display: block;
+  font-size: 18px;
+  line-height: 18px;
+  height: 24px;
+  margin-bottom: 7px;
+  padding-left: 7px;
+  text-transform: uppercase;
+  padding-top: 4px;
+}
+
+.tagindex UL  {
+	list-style-type:none;
+	margin:0px;
+	padding:0px;
+	}
+	
+.tagindex UL LI {
+	float:left;
+	display:block;
+	height: 30px;	
+	}
+
+.tagindex UL LI A {
+	color: #77bf04;
+}			
