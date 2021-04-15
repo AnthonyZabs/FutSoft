@@ -26,3 +26,7 @@ Automated System for the Management of Soccer 7 Tournaments. It's a school proje
     <img src="https://i.ibb.co/GvJJ1PB/Imagen97.png"></img>
   </kbd>
 </p>
+
+## Getting Started
+The databse contains test data. The user to access the admin control panel is 'Antonio' with password '123456'.\
+You only need the import the database and edit the `kernel/core.php` with your database connection credentials.
